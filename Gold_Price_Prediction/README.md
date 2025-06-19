@@ -30,11 +30,3 @@ To run this project locally, follow these steps:
 ## Conclusion
 
 The "Gold Price Prediction" project provides a practical solution for estimating gold prices based on various factors. By leveraging data collection, preprocessing, visualization, Random Forest regression modeling, and model evaluation, this project offers a comprehensive approach to addressing the price prediction task. The project also includes a curated dataset to facilitate seamless exploration and experimentation.
-
-## License
-
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
-
-## Acknowledgements
-
-This project is made possible by the contributions of the open-source community and the powerful libraries it provides, including NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, and Random Forest Regressor. I extend my gratitude to the developers and maintainers of these libraries for their valuable work.  In addition, the mentor Siddhardan, visit his channel here : https://www.youtube.com/@Siddhardhan
